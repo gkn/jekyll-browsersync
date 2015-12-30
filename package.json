@@ -1,0 +1,20 @@
+{
+  "name": "JekyllBrowsersync",
+  "version": "1.0.0",
+  "description": "Basic Jekyll template with browsersync",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gkn/jekyll-browsersync.git"
+  },  
+  "author": "Geir Seierstad",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.5.3",
+    "gulp": "^3.8.11",
+    "gulp-shell": "^0.4.0"
+  }
+}
